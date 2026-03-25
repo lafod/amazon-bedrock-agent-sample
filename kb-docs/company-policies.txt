@@ -1,0 +1,30 @@
+ACME Corp Employee Handbook - Benefits and Policies
+
+VACATION POLICY:
+All full-time employees receive 15 days of paid vacation per year.
+Vacation days must be approved by your direct manager at least 2 weeks in advance.
+Unused vacation days can be carried over to the next year, up to a maximum of 5 days.
+Part-time employees receive vacation days on a pro-rated basis.
+
+REMOTE WORK POLICY:
+Employees may work remotely up to 3 days per week with manager approval.
+All remote workers must be available during core hours of 10am to 3pm EST.
+A stable internet connection is required for remote work.
+Remote work privileges may be revoked if performance standards are not met.
+
+HEALTH INSURANCE:
+The company provides health insurance through BlueCross BlueShield.
+Employee premiums are covered 80% by the company.
+Dental and vision coverage is optional and costs $45 per month.
+New employees are eligible for health insurance after a 30-day waiting period.
+
+RETIREMENT BENEFITS:
+The company offers a 401(k) plan with a 4% employer match.
+Employees are eligible to enroll after 90 days of employment.
+Vesting schedule is 25% per year over 4 years.
+
+EXPENSE REIMBURSEMENT:
+Business travel expenses are reimbursed within 30 days of submission.
+Meals during business travel are capped at $75 per day.
+All expenses over $50 require a receipt.
+Personal expenses are not eligible for reimbursement.

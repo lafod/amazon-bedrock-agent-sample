@@ -1,0 +1,15 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.backup
+*.tfplan
+.terraform.lock.hcl
+
+# Lambda zips
+**/*.zip
+
+# Test output
+response.json
+
+# OS
+.DS_Store
